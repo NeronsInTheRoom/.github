@@ -16,15 +16,6 @@
     <li style="margin-bottom: 10px;">
       <span style="font-weight: bold;">
     </li>
-    <li style="margin-bottom: 10px;">
-      <span style="font-weight: bold;">
-    </li>
-    <li style="margin-bottom: 10px;">
-      <span style="font-weight: bold;">
-    </li>
-    <li style="margin-bottom: 10px;">
-      <span style="font-weight: bold;">
-    </li>
   </ul>
 </div>
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
