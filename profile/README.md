@@ -81,7 +81,7 @@
       <tr>
         <td style="text-align: center;"><strong>BackEnd</strong></td>
         <td style="text-align: center;">
-          Python
+          Python
         </td>
       </tr>
       <tr>
